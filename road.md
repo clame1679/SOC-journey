@@ -8,6 +8,6 @@ SIEM основы
 LetsDefend кейсы
 #Мой профиль TryHackMe
 https://tryhackme.com/p/clamework
-Первый день моего обучения я прошел 2 комнаты:
-![Uploading image.png…]()
+1 ДЕНЬ моего обучения я прошел 2 комнаты и по выбору в опросе я хочу стать red team пенстестером 
+
 
