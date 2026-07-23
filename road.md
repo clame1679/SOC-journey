@@ -8,3 +8,5 @@ SIEM основы
 LetsDefend кейсы
 #Мой профиль TryHackMe
 https://tryhackme.com/p/clamework
+Первый день моего обучения я прошел 2 комнаты:
+![screenshot](https://github.com/clame1679/SOC-journey/blob/main/image.png)
